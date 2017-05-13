@@ -1,3 +1,8 @@
+/*
+操作系统作业：
+	csy199612@gmail.com
+*/
+
 #include<string.h>
 #include<stdio.h>
 #include<unistd.h>
