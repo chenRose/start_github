@@ -4,3 +4,4 @@ change in master
 =======
 change in dev2
 >>>>>>> dev2
+bug被解决了！
