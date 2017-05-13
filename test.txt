@@ -1,8 +1,8 @@
-¸Ä±ä£ºÔÚdev·ÖÖ§ÖĞµÄ¸Ä±ä
+æ”¹å˜ï¼šåœ¨devåˆ†æ”¯ä¸­çš„æ”¹å˜
 <<<<<<< HEAD
 change in master
 =======
 change in dev2
 >>>>>>> dev2
-bug±»½â¾öÁË£¡
-test
+bugè¢«è§£å†³äº†ï¼
+testã€‚ahahahah 
