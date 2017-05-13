@@ -1,2 +1,6 @@
 改变：在dev分支中的改变
+<<<<<<< HEAD
 change in master
+=======
+change in dev2
+>>>>>>> dev2
